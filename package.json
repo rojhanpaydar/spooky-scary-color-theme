@@ -1,0 +1,21 @@
+{
+    "name": "spookyscarycolortheme",
+    "displayName": "SpookyScaryColorTheme",
+    "description": "Lovers of Halloween and all things spooky, UNITE!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spooky Scary Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Spooky Scary Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
