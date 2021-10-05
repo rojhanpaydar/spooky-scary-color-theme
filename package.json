@@ -1,9 +1,13 @@
 {   
     "publisher": "rothecoder",
     "name": "spooky-scary-color-theme",
-    "displayName": "SpookyScaryColorTheme",
+    "displayName": "Spooky Scary Color Theme",
     "description": "Lovers of Halloween and all things spooky, UNITE!",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rojhanpaydar/spooky-scary-color-theme"
+    },
     "engines": {
         "vscode": "^1.60.0"
     },
