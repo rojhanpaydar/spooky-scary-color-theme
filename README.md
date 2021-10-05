@@ -2,7 +2,7 @@
 
 Hey you! Interested in a theme that'll send SHIVERS down your spine and give you an all around Halloween vibe?! :jack_o_lantern: Well you've come to the right theme! Inspired by  Halloween, spooky season, and Tim Burton films, this theme was born by a dev who absolutely adores all these things! :sparkles:
 
-![Preview of Spooky Scary Color Theme](spooky-scary-color-theme/spookyscarycolortheme/previewImage.png)
+![Preview of Spooky Scary Color Theme: a black, green, orange and purple VS Code Theme](https://raw.githubusercontent.com/rojhanpaydar/spooky-scary-color-theme/main/previewImage.png?token=ANZ5BYHQ4U2PYB34ZHEM35LBLOTBA)
 
 The best feature is all thanks to the folks who created the extension called "POWER MODE". :boom:
 
@@ -10,7 +10,11 @@ The best feature is all thanks to the folks who created the extension called "PO
 
 Using the genius behind Power Mode, I was able to include a little ghost friend to pop up and haunt your editor after a few key types! :ghost:
 
-To add this, you'll need to paste in the following to your settings.json:
+![An animated looping image of a cartoon ghost flying upward and disappearing](https://media.giphy.com/media/8CZkmk6VsWmf5TfxNo/giphy.gif)
+> Credits to the original author of this gif [Finkel Band](https://giphy.com/finkelband). I had to speed it up and [post my own faster version of this gif](https://media.giphy.com/media/WngnWxxekMn8DIqmwQ/giphy.gif) so it would render in a faster enough time on each click! Also, I will not be removing this gif so it can be used forever! :blush:
+> Also, the image is transparent so appears nearly invisible if not using dark mode. It will change colours while in the editor! :dizzy:
+
+To add a GHOST to your editor, you'll need to paste in the following to your settings.json:
 
 ```
 // added powermode ext
@@ -49,3 +53,5 @@ Additionally, I'm using the font "Fira Code", plugged into my settings.json like
 After you set that up, you should be good to GHOST! :stuck_out_tongue_winking_eye: 
 
 Happy Spooky Season y'all, I hope this theme brings you lots of good spooky vibes!!! :tada:
+
+![An animated looping image of a cartoon pumpkin that reads 'happy halloween'](https://media.giphy.com/media/OoYrQPHwYpYnXhllfe/giphy.gif)
