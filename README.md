@@ -12,9 +12,8 @@ Using the genius behind Power Mode, I was able to include a little ghost friend 
 
 ![An animated looping image of a cartoon ghost flying upward and disappearing](https://media.giphy.com/media/8CZkmk6VsWmf5TfxNo/giphy.gif)
 > Credits to the original author of this gif [Finkel Band](https://giphy.com/finkelband). I had to speed it up and [post my own faster version of this gif](https://media.giphy.com/media/WngnWxxekMn8DIqmwQ/giphy.gif) so it would render in a faster enough time on each click! Also, I will not be removing this gif so it can be used forever!
-> Also, the image is transparent so appears nearly invisible if not using dark mode. It will change colours while in the editor! 
 
-To add a GHOST to your editor, you'll need to paste in the following to your settings.json:
+To add a GHOST to your editor, you'll need to install the [Power Mode Extention](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode&ssr=false#overview), and then paste in the following to your settings.json:
 
 ```
 // added powermode ext
@@ -55,3 +54,12 @@ After you set that up, you should be good to GHOST!
 Happy Spooky Season y'all, I hope this theme brings you lots of good spooky vibes!!!
 
 ![An animated looping image of a cartoon pumpkin that reads 'happy halloween'](https://media.giphy.com/media/OoYrQPHwYpYnXhllfe/giphy.gif)
+
+Resources and guides:
+ 
+[Monica Powell's](https://twitter.com/indigitalcolor/) article to set up Power Mode extension: [How to Make Your VSCode Sparkle](https://aboutmonica.com/blog/how-to-make-your-vs-code-sparkle)
+
+[Cody Hoover's](https://twitter.com/hoovercj) extension Power Mode: [Power Mode Extension](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode&ssr=false#overview)
+
+[Ivan Stevkovski's](https://www.linkedin.com/in/istevkovski/?originalSubdomain=mk) guide to make a VS Code theme: [Create Your Own Custom Theme Extension](https://medium.com/wearelaika/vscode-create-your-own-custom-theme-extension-96c67bd753f6)
+
