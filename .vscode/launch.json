@@ -9,7 +9,6 @@
             "name": "Extension",
             "type": "extensionHost",
             "request": "launch",
-            "icon": "/spookyscarycolortheme/ssctLogoSmaller.jpeg",
             "args": [
                 "--extensionDevelopmentPath=${workspaceFolder}"
             ]
