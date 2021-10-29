@@ -2,6 +2,9 @@
 
 Hey you! Interested in a theme that'll send SHIVERS down your spine and give you an all around Halloween vibe?! Well you've come to the right theme! Inspired by  Halloween, spooky season, and Tim Burton films, this theme was born by a dev who absolutely adores all these things!
 
+![Preview of Spooky Scary Color Theme: a black, green, orange and purple VS Code Theme](https://media.giphy.com/media/ZljsomV1FjhgkVIjYh/source.gif)
+>Let's ignore the fact that my fingers type faster than my brain, I meant to write an h2 and not an h1, ty! :)
+
 ![Preview of Spooky Scary Color Theme: a black, green, orange and purple VS Code Theme](https://raw.githubusercontent.com/rojhanpaydar/spooky-scary-color-theme/main/previewImage.png?token=ANZ5BYHQ4U2PYB34ZHEM35LBLOTBA)
 
 The best feature is all thanks to the folks who created the extension called "POWER MODE".
