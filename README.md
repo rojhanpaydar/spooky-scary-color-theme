@@ -16,19 +16,19 @@ Using the genius behind Power Mode, I was able to include a little ghost friend 
 ![An animated looping image of a cartoon ghost flying upward and disappearing](https://media.giphy.com/media/8CZkmk6VsWmf5TfxNo/giphy.gif)
 > Credits to the original author of this gif [Finkel Band](https://giphy.com/finkelband). I had to speed it up and [post my own faster version of this gif](https://media.giphy.com/media/WngnWxxekMn8DIqmwQ/giphy.gif) so it would render in a faster enough time on each click! Also, I will not be removing this gif so it can be used forever!
 
-To add a GHOST to your editor, you'll need to install the [Power Mode Extention](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode&ssr=false#overview), and then paste in the following to your settings.json:
+To add a GHOST to your editor, you'll need to install the [Power Mode Extention](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode&ssr=false#overview), open up settings.json, and paste the following code inside your settings.json:
 
 ```
 // added powermode ext
 "powermode.enabled": true,
 
-"powermode.customExplosions": [
+"powermode.explosions.customExplosions": [
   // direct path does not work, gif I uploaded to giphy
   "https://media.giphy.com/media/WngnWxxekMn8DIqmwQ/giphy.gif"
 ],
 
 // this allows the little ghost friend to pop up above your line so you can see what you're typing!
-"powermode.customCss": {
+"powermode.explosions.customCss": {
   "top": "-30px",
   "z-index": 1,
   "height": "70px",
@@ -36,13 +36,13 @@ To add a GHOST to your editor, you'll need to install the [Power Mode Extention]
 },
 
 // stops the editor from shaking on each type
-"powermode.enableShake": false,
+"powermode.shake.enabled": false,
 
 // minimizes how often there is an appearance from our little ghost friend!
-"powermode.maxExplosions": 1, 
+"powermode.explosions.maxExplosions": 1, 
 
 // how many key hits until our ghost friend comes out to haunt us! :scream:
-"powermode.explosionFrequency": 20,
+"powermode.explosions.frequency": 20,
 ```
 
 Additionally, I'm using the font "Fira Code", plugged into my settings.json like so: 
@@ -52,7 +52,7 @@ Additionally, I'm using the font "Fira Code", plugged into my settings.json like
     "editor.fontLigatures": true,
 ```
 
-After you set that up, you should be good to GHOST!
+After you set that up, you should be good to GHOoOoOoST!
 
 Happy Spooky Season y'all, I hope this theme brings you lots of good spooky vibes!!!
 
